@@ -1,0 +1,38 @@
+{
+  "tile_width": 16,
+  "tile_height": 16,
+  "columns": 16,
+  "rows": 8,
+  "tiles": {
+    "grass": 0,
+    "grass_dark": 1,
+    "dirt": 2,
+    "sand": 3,
+    "path_center": 4,
+    "path_h": 5,
+    "path_v": 6,
+    "path_corner_ne": 7,
+    "path_corner_nw": 8,
+    "path_corner_se": 9,
+    "path_corner_sw": 10,
+
+    "tree_top": 16,
+    "tree_bottom": 32,
+    "bush": 17,
+    "flower_red": 18,
+    "flower_yellow": 19,
+
+    "water": 20,
+    "water_edge_n": 21,
+    "water_edge_s": 22,
+    "water_edge_w": 23,
+    "water_edge_e": 24,
+
+    "house_roof": 33,
+    "house_wall": 34,
+    "house_door": 35,
+
+    "fence": 48,
+    "sign": 49
+  }
+}
