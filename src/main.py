@@ -3,7 +3,8 @@ from engine.engine import engine_run
 
 def main():
     pygame.init()
-    screen = pygame.display.set_mode((320, 240))
+    screen = pygame.display.set_mode((320, 267))
+    # screen = pygame.display.set_mode((240, 160))
     pygame.display.set_caption("FRLG-like Engine (PoC)")
     clock = pygame.time.Clock()
 
